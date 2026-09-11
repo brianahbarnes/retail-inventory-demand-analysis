@@ -19,9 +19,11 @@ replenishment with actual sales?
   but practically negligible improvement in explaining sales (R² 
   unchanged at 0.9937)
 
-## Tools
-R (base plotting, linear regression, correlation analysis)
-
+## Tech Stack & Methods
+- **Language:** R
+- **Methods:** correlation analysis, linear regression, comparing models to see if inventory adds anything beyond demand forecasts, checking for forecast bias
+- **Visuals & Presentation:** R base plots, Canva
+  
 ## Files
 - `analysis.R` — full data cleaning and analysis script
 - `presentation.pdf` — slide deck summarizing findings
