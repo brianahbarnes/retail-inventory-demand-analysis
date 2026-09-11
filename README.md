@@ -26,7 +26,7 @@ replenishment with actual sales?
   
 ## Files
 - `analysis.R` — full data cleaning and analysis script
-- `presentation.pdf` — slide deck summarizing findings
+- `presentation.pdf` — slides summarizing findings
 
 
 ## Data Source
