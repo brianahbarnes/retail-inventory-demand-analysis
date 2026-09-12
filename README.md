@@ -25,7 +25,7 @@ replenishment with actual sales?
 - **Visuals & Presentation:** R base plots, Canva
   
 ## Files
-- `analysis.R` — full data cleaning and analysis script
+- `Retail.R` — full data cleaning and analysis script
 - `presentation.pdf` — slides summarizing findings
 
 
